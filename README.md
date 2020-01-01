@@ -5,14 +5,16 @@ The HOSC Cooperman Site, hosted at http://cooperman.hunterosc.org , is a deploye
 
 ## contributors 
 
-Ralph Vente @rvente (Backend Administator)
+Ralph Vente @rvente (Backend Administator and Frontend Web Developer)
 * configured and deployed the the server instance
 * registered and forwarded the domain
 * adjusted the navbar and footer
+* migrated content and added consistency to page layout
+* ensured fluent document layout across pages
 
 Joshua Natis @joshnatis (Frontend Web Developer)
 * migrated content and added consistency to page layout
-* ensuted fluent document layout across pages
+* ensured fluent document layout across pages
 
 Kevin Wong @Darktwine (Quality Assurance)
 * revised the site for broken links
@@ -28,5 +30,5 @@ Kevin Wong @Darktwine (Quality Assurance)
    
    At this point, you will be able to sign in to your Wordpress site, but it will not be on your domain yet. Do not upload additional media to your site. When you update your domain on this Wordpress site, it will not update the links of the media, so you would have to update the links or reupload your media. 
 
-3. Map your domain. This has two steps (1) tell your Goole Domains to point to your site (2) tell your Wordpress site to present that domain name.
+3. Map your domain. This has two steps (1) tell your Google Domains to point to your site (2) tell your Wordpress site to present that domain name.
    * https://wpengine.com/support/configure-google-domains-dns/
