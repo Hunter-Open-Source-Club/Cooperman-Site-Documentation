@@ -5,6 +5,7 @@
 - [ ] Figure out how to make multiple 'post' pages (i.e. blog style)
 - [ ] Consider changing the width of divs on Community page
 - [ ] Consider styling tables on 'About Us' page
+- [ ] The buttons in the footer cause an alignment issue
 
 
 
