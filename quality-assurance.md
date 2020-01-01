@@ -89,3 +89,27 @@ https://www.thoughtco.com/gmat-scores-for-top-business-schools-3211254 ?
 
 5. Hyperlink “Accountemps/ AICPA Student Scholarship” plus the link right below https://www.roberthalf.com/work-with-us/our-services/accountemps/AT/AICPAScholarship
 	- Fix: https://www.aicpa.org/interestareas/accountingeducation/resources/aicpaaccountemps.html
+	
+# Links Leading to Unfinished Pages
+
+These links are listed under the Resources tab
+
+### **Resources for Specific Career Choices**
+
+-   [Business
+    Certificate](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/business-certificate)
+-   [Finance](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/finance)
+-   [Consulting](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/consulting)
+-   [Techonology](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/technology)
+-   [Entrepreneurship](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/entrepreneurship)
+
+### **Other Resources**
+
+-   [Dressing for
+    Success](http://www.hunter.cuny.edu/prebusiness/resources/other-resources/dressing-for-success)
+-   [Business
+    Etiquette](http://www.hunter.cuny.edu/prebusiness/resources/other-resources/business-etiquette)
+-   [Being a Good
+    Conversationalist](http://www.hunter.cuny.edu/prebusiness/resources/other-resources/being-a-good-conversationalist)
+-   [The Business
+    Meal](http://www.hunter.cuny.edu/prebusiness/resources/other-resources/the-business-meal)
