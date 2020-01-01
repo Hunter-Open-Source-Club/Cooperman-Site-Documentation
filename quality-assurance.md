@@ -100,7 +100,7 @@ These links are listed under the Resources tab
     Certificate](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/business-certificate)
 -   [Finance](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/finance)
 -   [Consulting](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/consulting)
--   [Techonology](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/technology)
+-   [Technology](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/technology)
 -   [Entrepreneurship](http://www.hunter.cuny.edu/prebusiness/resources/career-resources/entrepreneurship)
 
 ### **Other Resources**
