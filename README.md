@@ -32,3 +32,6 @@ Kevin Wong @Darktwine (Quality Assurance)
 
 3. Map your domain. This has two steps (1) tell your Google Domains to point to your site (2) tell your Wordpress site to present that domain name.
    * https://wpengine.com/support/configure-google-domains-dns/
+   
+4. Finishing touches
+   * https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/
