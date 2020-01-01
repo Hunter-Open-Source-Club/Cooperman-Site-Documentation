@@ -6,8 +6,7 @@
 - [ ] Consider changing the width of divs on Community page
 - [ ] Consider styling tables on 'About Us' page
 - [ ] MOBILE: The buttons in the footer cause an alignment issue
-
-
+- [ ] DOCS: Consider making video tutorial for setting up
 
 ## Broken Links to look at and fix
 
