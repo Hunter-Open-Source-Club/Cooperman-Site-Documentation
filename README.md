@@ -35,3 +35,4 @@ Kevin Wong @Darktwine (Quality Assurance)
    
 4. Finishing touches
    * https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/
+   * http://13.59.7.81/bitnami/index.html
